@@ -1,0 +1,14 @@
+fastapi==0.103.0
+uvicorn[standard]==0.23.2
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.2
+gensim==4.3.1
+scipy==1.9.3  
+python-dateutil==2.8.2
+pytest==7.2.2
+pydantic==1.10.4
+pymysql==1.1.0
+sqlalchemy==1.4.49  
+cryptography
+pickle-mixin==1.0.2
