@@ -13,6 +13,10 @@ sqlalchemy==1.4.49
 cryptography
 rapidfuzz==2.4.3
 fuzzywuzzy==0.18.0
+python-dotenv==1.0.0
+alembic==1.11.1
+sqlalchemy-utils==0.41.1
+pytest==7.4.0
 
 # transformers==4.19.2
 # tokenizers==0.13.3
