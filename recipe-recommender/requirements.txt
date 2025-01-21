@@ -12,3 +12,7 @@ pymysql==1.1.0
 sqlalchemy==1.4.49  
 cryptography
 pickle-mixin==1.0.2
+python-dotenv==1.0.0
+alembic==1.11.1
+sqlalchemy-utils==0.41.1
+pytest==7.4.0
